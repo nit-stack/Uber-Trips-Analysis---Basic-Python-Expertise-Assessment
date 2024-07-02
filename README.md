@@ -27,11 +27,11 @@ The analysis involves answering the following questions and performing the assoc
 21. Plot the number of trips vs. Category of trips.
 22. What is the proportion of miles covered as Business trips, and what is the proportion of miles covered as Personal trips?
 # Prerequisites
-Python 3.6+
-Jupyter Notebook
-pandas
-matplotlib
-seaborn
+* Python 3.6+
+* Jupyter Notebook
+* pandas
+* matplotlib
+* seaborn
 # Running the Analysis
 Please refer to the Jupyter Notebook file to have a look at the codes.
 # Results
