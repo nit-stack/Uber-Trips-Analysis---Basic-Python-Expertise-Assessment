@@ -39,6 +39,7 @@ The analysis will produce several outputs, including data summaries, unique dest
 # Example Outputs
 Number of Trips vs. Category of Trips Plot
 ![image](https://github.com/nit-stack/Uber-Trips-Analysis---Basic-Python-Expertise-Assessment/assets/174468592/8032b9d0-8b83-4de0-98fe-b35511a90109)
+
 Purpose vs. Miles Bar Graph
 ![image](https://github.com/nit-stack/Uber-Trips-Analysis---Basic-Python-Expertise-Assessment/assets/174468592/2dafd1bd-5aed-42ec-aa37-da261d4ca13e)
 
